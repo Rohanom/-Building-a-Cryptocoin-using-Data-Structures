@@ -58,10 +58,3 @@ To apply foundational DSA and cryptographic techniques to build a realistic, int
 - **Linear Search & Traversal** for wallet balance calculation and block validation
 
 ---
-
-## 💻 How to Run
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/ektedar-coin.git
-cd ektedar-coin
